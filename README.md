@@ -132,11 +132,8 @@ Finally, remove the */image* and */parent* directories from the container bundle
   `sudo rm -rf /runc/containers/name-of-your-bundle/parent`
 
 
-### On the source host
-
-Remove */image* and */parent* also on the source host.
-
-
 ## References
 
 [1] C. Puliafito, C. Vallati, E. Mingozzi, G. Merlino, F. Longo, A. Puliafito, "Container Migration in the Fog: A Performance Evaluation" MDPI Sensors, 19(7): 1488, 2019. doi: https://doi.org/10.3390/s19071488
+
+[2] 2.	C. Puliafito, C. Vallati, E. Mingozzi, G. Merlino, F. Longo, “Design and evaluation of a fog platform supporting device mobility through container migration”, Elsevier Pervasive and Mobile Computing, vol. 74, Jul. 2021, doi: 10.1016/j.pmcj.2021.101415
