@@ -1,6 +1,10 @@
 # Migrate runC containers between hosts
 Instructions and tools to manage the life cycle of runC containers and migrate them between hosts.
 
+If you find this work useful in your research, please cite:
+
+C. Puliafito, C. Vallati, E. Mingozzi, G. Merlino, F. Longo, “Design and evaluation of a fog platform supporting device mobility through container migration”, Elsevier Pervasive and Mobile Computing, vol. 74, Jul. 2021, doi: https://doi.org/10.1016/j.pmcj.2021.101415
+
 
 ## Step 1 - Device images
 
@@ -136,4 +140,4 @@ Finally, remove the */image* and */parent* directories from the container bundle
 
 [1] C. Puliafito, C. Vallati, E. Mingozzi, G. Merlino, F. Longo, A. Puliafito, "Container Migration in the Fog: A Performance Evaluation" MDPI Sensors, 19(7): 1488, 2019. doi: https://doi.org/10.3390/s19071488
 
-[2] 2.	C. Puliafito, C. Vallati, E. Mingozzi, G. Merlino, F. Longo, “Design and evaluation of a fog platform supporting device mobility through container migration”, Elsevier Pervasive and Mobile Computing, vol. 74, Jul. 2021, doi: 10.1016/j.pmcj.2021.101415
+[2] C. Puliafito, C. Vallati, E. Mingozzi, G. Merlino, F. Longo, “Design and evaluation of a fog platform supporting device mobility through container migration”, Elsevier Pervasive and Mobile Computing, vol. 74, Jul. 2021, doi: https://doi.org/10.1016/j.pmcj.2021.101415
