@@ -1,7 +1,3 @@
-<head>
-    <meta name="google-site-verification" content="0KNAZzRHgpBIpwkZ4JaIzpwAl6Xaa7eR504_2KIaQIM" />
-</head>
-
 # Migrate runC containers between hosts
 Instructions and tools to manage the life cycle of runC containers and migrate them between hosts.
 
